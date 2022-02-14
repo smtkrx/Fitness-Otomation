@@ -1,0 +1,44 @@
+Isim:samet
+Soyisim: Kara
+Gun: 23
+Ay: 12
+Yil: 1997
+Kayitno:262
+Isim:Eren
+Soyisim: Kara
+Gun: 11
+Ay: 11
+Yil: 2001
+Kayitno:26
+Isim:ahmet
+Soyisim: melik
+Gun: 22
+Ay: 10
+Yil: 1995
+Kayitno:16
+
+
+Isim:mehmet
+Soyisim: mert
+Gun: 10
+Ay: 10
+Yil: 2000
+Kayitno:262
+
+
+Isim:Samet
+Soyisim: Kara
+Gun: 23
+Ay: 12
+Yil: 1997
+Kayitno:1
+
+
+Isim:Cagri
+Soyisim: Demirbas
+Gun: 10
+Ay: 10
+Yil: 1997
+Kayitno:2
+
+

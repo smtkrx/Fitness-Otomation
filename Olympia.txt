@@ -1,0 +1,41 @@
+Product Name: Gainer
+Company: Hardline
+Product Type: Hap
+Serial No: 156
+Piece: 100
+Expiration Date: 2022
+Amount of powder250
+Mg: 300
+Price: 200
+
+Product Name: ProGain
+Company: Hardline
+Product Type: Toz
+Serial No: 515
+Piece: 50
+Expiration Date: 2023
+Amount of powder150
+Mg: 100
+Price: 175
+Product Name: GymEn
+Company: Energy
+Product Type: Hap
+Serial No: 125
+Piece: 400
+Expiration Date: 2025
+Amount of powder200
+Mg: 150
+Price: 350
+
+
+Product Name: GymEn
+Company: Gainer
+Product Type: Toz
+Serial No: 56
+Piece: 135
+Expiration Date: 2021
+Amount of powder321
+Mg: 100
+Price: 325
+
+
