@@ -8,7 +8,7 @@
 - Listing Products
 - Updating the Product Quantity
 - Reset All Information
-- 
+ 
 <p align="center">
   <img src="images/da312314c84ab7f0207af31c1f248aa2.png" width="700">
 </p>
