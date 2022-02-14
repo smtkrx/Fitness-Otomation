@@ -1,4 +1,4 @@
-# Fittness-Otomation
+# Fitness-Otomation
 - Control of incoming products in the gym
 - Supply
 - Sale of products
